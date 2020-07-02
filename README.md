@@ -1,4 +1,5 @@
-**Guessing game bash script for the *Unix Workbench* **\n
-Make ran at:
-The number of lines within the Guessinggame bash script is:
+ # Guessing game bash script for the Unix Workbench
+ ## Make ran at:
+Thu Jul  2 17:31:00 EDT 2020
+## The number of lines within the Guessinggame bash script is:
 34
